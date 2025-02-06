@@ -1,1 +1,1 @@
-Attempt in developing a portfolio website to showcase projects. Built from an initial template with the goal to learn more about with web development
+Attempt to develop a portfolio website to showcase projects. Built from an initial template to learn more about web development. I implemented forwarding to the custom domain I got for free: "www.ashvin.tech".
