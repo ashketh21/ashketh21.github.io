@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    console.log("Portfolio website loaded successfully");
+    console.log("Website loaded successfully");
 
     // Smooth scrolling for navigation links
     document.querySelectorAll("nav ul li a").forEach(anchor => {
